@@ -1,23 +1,38 @@
-## Hi I'm Rukayat 👋
-Data Analyst| Power BI| Excel| SQL| Python
-I'm a Data Analyst passionate about turning raw data into meaningful insights that support better decisions-making.
-Skills
-------
-📊 Power BI
-📗 Excel
-🗄️ SQL
-🐍 Python
-<!--
-**rukayatolabisi563/rukayatolabisi563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rukayat 👋
 
-Here are some ideas to get you started:
+### Data Analyst | Power BI | Excel | SQL | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I'm a Data Analyst passionate about turning raw data into meaningful insights that support better business decisions.
+
+## 🛠️ Skills
+
+- 📊 Power BI
+- 📗 Excel
+- 🗄️ SQL
+- 🐍 Python
+
+## 📂 Featured Projects
+
+### 🛒 Supermarket Sales Analysis
+Analyzed supermarket sales data using Power BI to identify sales trends, product performance, customer behavior, and branch performance.
+
+### ☕ Café Sales Analysis
+Explored café sales data using Python and Power BI to uncover sales patterns and generate actionable insights.
+
+### 👥 Customer Analysis
+Used SQL to analyze customer data and identify purchasing patterns and high-value customers.
+
+## 📈 What I Do
+
+- Data cleaning and preparation
+- Exploratory data analysis
+- Interactive dashboard development
+- Business intelligence and reporting
+- Data-driven insights
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/rukayat-olabisi-6728a3232]
+- Email: [rukayatolabisi77@gmail.com]
 - ⚡ Fun fact: ...
 -->
