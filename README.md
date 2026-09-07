@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Rukayat 👋
+Data Analyst| Power BI| Excel| SQL| Python
+I'm a Data Analyst passionate about turning raw data into meaningful insights that support better business decisions.
 
 <!--
 **rukayatolabisi563/rukayatolabisi563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
