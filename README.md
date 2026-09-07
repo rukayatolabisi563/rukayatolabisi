@@ -34,5 +34,4 @@ Used SQL to analyze customer data and identify purchasing patterns and high-valu
 
 - LinkedIn: [linkedin.com/in/rukayat-olabisi-6728a3232]
 - Email: [rukayatolabisi77@gmail.com]
-- ⚡ Fun fact: ...
 -->
